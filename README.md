@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/98c780ccc80ffe74cc94b3ca0f2e86d6b7fecc4e0cb88c3885dbb95f0d3087d7/68747470733a2f2f69626167726f757069742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f62616e6e65725f313330302d3335375f6465766f70732e706e67)])
+![MasterHead](https://pbs.twimg.com/profile_banners/1584053366053048320/1666947216/1080x360)
 <h1 align="center">Hi 👋, This is Shyam</h1>
 <h3 align="center">I'm a python developer, exploring the world of DevOps and Cloud </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
