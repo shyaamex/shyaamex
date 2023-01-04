@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1584053366053048320/1666947216/1080x360)
+![IMG_20230104_074607](https://user-images.githubusercontent.com/115785301/210472839-015b41a1-871d-41d6-a487-15ec5c833c9c.png)
 <h1 align="center" >Hii 👋, This is Shyam</h1>
 <h3 align="center">I'm a python developer, exploring the world of DevOps and Cloud </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
