@@ -68,7 +68,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> </a> 
       </td>
       <td>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="80"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/213389512-f32778bf-159a-403c-99ca-7fd3b43b68c0.png" alt="YAML" width="80" height="80"/> </a> 
       </td>
       <td>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> </a> 
@@ -79,7 +79,8 @@
     </tr>
     </table>
 </p>
-<br>
+<br>![download]()
+
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyaamex&show_icons=true&locale=en&layout=compact" alt="shyaamex" /></p>
 <br>
