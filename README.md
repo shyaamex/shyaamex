@@ -1,4 +1,9 @@
-![IMG_20230104_074607](https://user-images.githubusercontent.com/115785301/210472839-015b41a1-871d-41d6-a487-15ec5c833c9c.png)
+![1 (2)](https://user-images.githubusercontent.com/115785301/214221585-255634f0-6d88-400c-8d25-5a95aa94a8c8.png)
+
+
+
+
+
 <h1 align="center" >Hii 👋, This is Shyam</h1>
 <h3 align="center">I'm a python developer, exploring the world of DevOps and Cloud </h3>
 
