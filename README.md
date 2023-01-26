@@ -18,7 +18,7 @@
 
 <p align="left"> <a href="https://twitter.com/shyaamex" target="blank"><img src="https://img.shields.io/twitter/follow/shyaamex?logo=twitter&style=for-the-badge" alt="shyaamex" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, Chef, Kubernentes**
+- 🌱 I’m a DevOps enthusiast and exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, Chef, Kubernentes**
 
 - 📝 I regularly write articles on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
