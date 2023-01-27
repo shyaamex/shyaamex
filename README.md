@@ -36,8 +36,10 @@
 
 
 
-<p><img align="left" src="https://syaamex.hashnode.dev/what-is-cloud-computing" alt="blog" /></p>
+<h3 align="left">Recent Blogs :</h3>
 
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 
 
