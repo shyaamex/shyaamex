@@ -1,0 +1,16 @@
+name: Update readme with blog posts
+on:
+  schedule:
+    # Runs at 00:00 UTC every day.
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://syaamex.hashnode.dev/
+          readme-section: feed
+          max: 5
+          template: "* [{{ title }}]({{ link }})"
