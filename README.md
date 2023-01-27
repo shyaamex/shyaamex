@@ -36,7 +36,7 @@
 
 
 
-<p><img align="left" src="https://syaamex.hashnode.dev/what-is-cloud-computing" alt="shyaamex" /></p>
+<p><img align="left" src="https://syaamex.hashnode.dev/what-is-cloud-computing" alt="blog" /></p>
 
 
 
