@@ -33,6 +33,17 @@
 <a href="https://hashnode.com/@shyaamex" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="@shyaamex" height="30" width="40" /></a>
 </p>
 
+
+
+
+<p><img align="left" src="https://syaamex.hashnode.dev/what-is-cloud-computing" alt="shyaamex" /></p>
+
+
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <table>
@@ -89,7 +100,7 @@
     </tr>
     </table>
 </p>
-<br>![download]()
+<br>
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyaamex&show_icons=true&locale=en&layout=compact" alt="shyaamex" /></p>
