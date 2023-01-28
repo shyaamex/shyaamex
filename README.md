@@ -29,6 +29,16 @@
 
 📌 You can mail me at  **shyaam.ex@gmail.com**
 
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/shyaamex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyaamex" height="30" width="40" /></a>
@@ -46,7 +56,10 @@
 
 
 
+<br>
 <h2 align="left">Languages and Tools:</h2>
+
+<br>
 <p align="left"> 
   <table>
     <tr>
