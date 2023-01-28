@@ -10,7 +10,7 @@
 
 
 <h1 align="center" >Hii 👋, This is Shyam</h1>
-<h3 align="center">I'm a python developer, exploring the world of DevOps and Cloud </h3>
+<h3 align="center">I am a DevOps enthusiast, exploring the world of DevOps and Cloud </h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/115785301/215174882-aed36c79-267c-4b48-b126-a40eb0788e5c.gif">
 
@@ -21,11 +21,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/shyaamex" target="blank"><img src="https://img.shields.io/twitter/follow/shyaamex?logo=twitter&style=for-the-badge" alt="shyaamex" /></a> </p>        Twitter data with link  -->
 
-📌 I’m a DevOps enthusiast and exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, Chef, Kubernentes**
+📌 I’m currently exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, Chef, Kubernentes**
 
 📌 I regularly write articles on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
-📌 I know **Python** and also working upon **Djanog** skills
+📌 I am fluent in **Python** and also working upon **Djanog** skills
 
 📌 You can mail me at  **shyaam.ex@gmail.com**
 
