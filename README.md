@@ -126,7 +126,4 @@
 <!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyaamex&show_icons=true&locale=en&layout=compact" alt="shyaamex" /></p>-->
 <br>
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyaamex&show_icons=true&locale=en&theme=dark" alt= "kyu nhi aa rha"/></p>
-<br>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamex&theme=dark" alt="shyaamex" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyaamex&show_icons=true&locale=en&theme=dark" alt= "kyu nhi aa rha"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamex&theme=dark" alt="shyaamex" /></p>
