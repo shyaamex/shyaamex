@@ -12,8 +12,11 @@
 <h1 align="center" >Hii 👋, This is Shyam</h1>
 <h3 align="center">I am a DevOps enthusiast, exploring the world of DevOps and Cloud </h3>
 
+<br>
+
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/115785301/215174882-aed36c79-267c-4b48-b126-a40eb0788e5c.gif">
 
+<br>
 
 
 <br>
