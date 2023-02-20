@@ -72,7 +72,7 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
       </td>
       <td>
-       <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/> </a> 
+       <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM92YwdFAS-1fNQ53HDkme-mKpLfMO9U_2g&usqp=CAU" alt="AWS" width="80" height="80"/> </a> 
       </td>
       <td>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
@@ -112,7 +112,7 @@
   <a href="https://en.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/213389512-f32778bf-159a-403c-99ca-7fd3b43b68c0.png" alt="YAML" width="80" height="80"/> </a> 
       </td>
       <td>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="tensorflow" width="80" height="80"/> </a> 
       </td>
       <td>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="80" height="80"/> </a> 
