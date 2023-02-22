@@ -72,7 +72,7 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a>
       </td>
       <td>
-       <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcM92YwdFAS-1fNQ53HDkme-mKpLfMO9U_2g&usqp=CAU" alt="AWS" width="80" height="80"/> </a> 
+       <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/220716651-37d7a603-7e71-40d8-bdc6-b55cf3006bd6.png" alt="AWS" width="80" height="80"/> </a> 
       </td>
       <td>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/> </a>
@@ -97,16 +97,16 @@
     </tr>
     <tr>
       <td>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/220713814-009a1f15-8eda-4127-be17-becd9bc3f8d5.png" alt="Terraform" width="80" height="80"/> </a> 
+      </td>
+      <td>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/220714778-48c9c6ef-78f3-478b-bbdf-b8864b091cca.png" alt="kubernetes" width="80" height="80"/> </a> 
       </td>
       <td>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="80" height="80"/> </a> 
       </td>
       <td>
   <a href="https://en.wikipedia.org/wiki/YAML" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/213389512-f32778bf-159a-403c-99ca-7fd3b43b68c0.png" alt="YAML" width="80" height="80"/> </a> 
-      </td>
-      <td>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="matplotlib" width="80" height="80"/> </a> 
       </td>
     </tr>
     <tr>
@@ -119,6 +119,9 @@
       <td>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>  
       </td>
+      <td>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
+      </td>
     </tr>
     </table>
 </p>
@@ -129,3 +132,29 @@
 <br>
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shyaamex&show_icons=true&locale=en&theme=dark" alt= "kyu nhi aa rha"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyaamex&theme=dark" alt="shyaamex" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
