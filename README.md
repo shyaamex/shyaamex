@@ -28,7 +28,7 @@
 📌 I’m currently exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, Chef, Kubernentes**.
 
 
-📌 I regularly write articles on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
+📌 I  write articles regularly on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
 📌 I am fluent in **Python** and also working upon **Djanog** skills
 
