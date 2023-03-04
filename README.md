@@ -30,7 +30,7 @@
 
 📌 I  write articles regularly on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
-📌 I am fluent in **Python ** and also working upon **Djanog** skills
+📌 I am fluent in **Python** and also working upon **Djanog** skills
 
 📌 You can mail me at  **shyaam.ex@gmail.com**
 
