@@ -10,7 +10,7 @@
 
 
 <h1 align="center" >Hii, 👋 <br>This is Shyam</h1>
-<h3 align="center">I am a DevOps enthusiast, currently exploring the world of DevOps and Cloud </h3>
+<h3 align="center">I am a DevOps enthusiast and currently exploring the world of DevOps and Cloud </h3>
 
 <br>
 
