@@ -25,12 +25,12 @@
 <p align="left"> <a href="https://twitter.com/shyaamex" target="blank"><img src="https://img.shields.io/twitter/follow/shyaamex?logo=twitter&style=for-the-badge" alt="shyaamex" /></a> </p>        
 <br>
 
-📌 I’m currently exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins, CI/CD, Terraform, Ansible, Go lang, Kubernentes**.
+📌 I’m currently exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins CI/CD, Terraform, Ansible, Go lang, Kubernentes**.
 
 
 📌 I  write articles regularly on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
-📌 I am fluent in **Python** and also working upon **Djanog** skills
+📌 I am fluent in **Python** and exploring **Go**
 
 📌 You can mail me at  **shyaam.ex@gmail.com**
 
