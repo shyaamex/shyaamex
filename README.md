@@ -44,11 +44,15 @@
 <br>
 <br>
 <br>
+
 <h2 align="left">Connect with me:</h2>
+
 <p align="left">
 <a href="https://twitter.com/shyaamex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyaamex" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyam-pratap-singh-shekhawat-335468190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-pratap-singh-shekhawat-335468190/" height="30" width="40" /></a>
-<a href="https://syaamex.hashnode.dev/" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="@shyaamex" height="30" width="40" /></a>
+  
+<a href="https://syaamex.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@shyaamex" height="30" width="40" /></a>
 </p>
 
 
