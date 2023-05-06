@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center" >Hii, 👋 <br>This is Shyam</h1>
+<h1 align="center" >Hii, 👋 <br>This is Shyaam</h1>
 <h3 align="center">I am a DevOps enthusiast and currently exploring the world of DevOps and Cloud and looking for opportunities </h3>
 
 <br>
