@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/220713814-009a1f15-8eda-4127-be17-becd9bc3f8d5.png" alt="Terraform" width="80" height="80"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="JavaScript" width="80" height="80"/> </a> 
       </td>
       <td>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115785301/220714778-48c9c6ef-78f3-478b-bbdf-b8864b091cca.png" alt="kubernetes" width="80" height="80"/> </a> 
