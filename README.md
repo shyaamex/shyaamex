@@ -10,7 +10,7 @@
 
 
 <h1 align="center" >Hii, 👋 <br>This is Shyaam</h1>
-<h3 align="center">I am a DevOps enthusiast and currently exploring the world of DevOps and Cloud and looking for opportunities </h3>
+<h3 align="center">I am a DevOps enthusiast and currently exploring opportunities in the world of web development  </h3>
 
 <br>
 
@@ -25,12 +25,12 @@
 <p align="left"> <a href="https://twitter.com/shyaamex" target="blank"><img src="https://img.shields.io/twitter/follow/shyaamex?logo=twitter&style=for-the-badge" alt="shyaamex" /></a> </p>        
 <br>
 
-📌 I’m currently exploring **DevOps tech stacks such as Linux, Git, Bash shell, Docker, YAML, Jenkins CI/CD, Terraform, Ansible, Go lang, Kubernentes**.
+📌 I’m currently exploring **Web Tech along with DevOps**.
 
 
 📌 I  write articles regularly on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
 
-📌 I am fluent in **Python** and exploring **Go**
+📌 I am fluent in **Python and JavaScript** and exploring **Fron End Development**
 
 📌 You can mail me at  **shyaam.ex@gmail.com**
 
