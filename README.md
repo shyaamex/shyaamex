@@ -10,11 +10,11 @@
 
 
 <h1 align="center" >Hii, 👋 <br>This is Shyaam</h1>
-<h3 align="center">I am a DevOps enthusiast and currently exploring opportunities in the world of web development  </h3>
+<h3 align="center">I am a web developer and DevOps Enthusiast  </h3>
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/115785301/215174882-aed36c79-267c-4b48-b126-a40eb0788e5c.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/115785301/215174882-aed36c79-267c-4b48-b126-a40eb0788e5c.gif">
 
 <br>
 
@@ -25,7 +25,7 @@
 <p align="left"> <a href="https://twitter.com/shyaamex" target="blank"><img src="https://img.shields.io/twitter/follow/shyaamex?logo=twitter&style=for-the-badge" alt="shyaamex" /></a> </p>        
 <br>
 
-📌 I’m currently exploring **Web Tech along with DevOps**.
+📌 I’m currently exploring **Web Tech along with Cloud**.
 
 
 📌 I  write articles regularly on [https://syaamex.hashnode.dev/](https://syaamex.hashnode.dev/)
@@ -49,7 +49,9 @@
 
 <p align="left">
 <a href="https://twitter.com/shyaamex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyaamex" height="30" width="40" /></a>
+  
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/shyam-pratap-singh-shekhawat-335468190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyam-pratap-singh-shekhawat-335468190/" height="30" width="40" /></a>
+  
   <a href="https://syaamex.hashnode.dev/" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@shyaamex" height="30" width="40" /></a>
 </p>
 
@@ -63,10 +65,7 @@
 
 
 
-<br>
-<h2 align="left">Languages and Tools:</h2>
 
-<br>
 
 </p>
 <br>
